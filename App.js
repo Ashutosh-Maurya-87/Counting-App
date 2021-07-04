@@ -6,7 +6,7 @@ function App() {
   const count=0;
   const [countNew,setCount]=useState(count)
   const clickCount=()=>{
-    console.log('you click');
+    console.log('you have click');
   }
   return (
     <>
