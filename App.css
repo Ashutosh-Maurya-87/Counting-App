@@ -4,6 +4,10 @@
 h1{
   text-align: center;
 }
+button{
+  color: aquamarine;
+  margin-left: 45%;
+}
 
 .App-logo {
   height: 40vmin;
